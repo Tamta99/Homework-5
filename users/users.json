@@ -1,0 +1,31 @@
+[
+    {
+        "id": 6,
+        "name": "Tamta Aptarauli",
+        "username": "Tamta Aptarauli",
+        "password": "123",
+        "email": "t.aptarauli@gmail.com",
+        "phone": "123456789",
+        "website": "fb.com",
+        "extension": "jpg"
+    },
+    {
+        "id": 7,
+        "name": "Salome Kavtaradze",
+        "username": "Salome Kavtaradze",
+        "password": "123",
+        "email": "s.kavtaradze@gmail.com",
+        "phone": "123456789",
+        "website": "fb.com"
+    },
+    {
+        "id": 8,
+        "name": "Mariam Tatishvili",
+        "username": "Mariam Tatishvili ",
+        "password": "123",
+        "email": "m.tatishvili@gmail.com",
+        "phone": "123456789",
+        "website": "fb.com"
+    }
+    
+]
